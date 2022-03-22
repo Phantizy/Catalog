@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--  Created the Private Text Notes tab "onClick" -->
+
+    <item
+        android:id="@+id/action_textnotes"
+        android:onClick="onClickShowNotes"
+        android:orderInCategory="1"
+        android:title="Private Text Notes"
+        app:showAsAction="never" />
+
+
+    <!--  Created the Image Notes tab "onClick" -->
+
+    <item
+        android:id="@+id/action_imagenotes"
+        android:onClick="onClickShowImageNotes"
+        android:orderInCategory="2"
+        android:title="Image Notes"
+        app:showAsAction="never" />
+
+    <!--  Created the Get Location tab "onClick" -->
+
+    <item
+        android:id="@+id/action_locationnotes"
+        android:onClick="onClickCaptureLocation"
+        android:orderInCategory="3"
+        android:title="Get Location"
+        app:showAsAction="never" />
+
+    <!--  Created the Settings tab "onClick" -->
+
+    <item
+        android:id="@+id/action_settings"
+        android:onClick="onClickShowSettings"
+        android:orderInCategory="4"
+        android:title="Settings"
+        app:showAsAction="never" />
+
+</menu>

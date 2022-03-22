@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Default Preferences -->
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="use_browser"
+        android:summary="Use an external browser to display news articles or display them directly in the app"
+        android:title="Use separate app if selected"/>
+
+    <EditTextPreference
+        android:defaultValue="wood work"
+        android:key="search_terms"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:maxLines="1"
+        android:summary="Enter words you want to search in article"
+        android:title="Search Terms"/>
+</PreferenceScreen>

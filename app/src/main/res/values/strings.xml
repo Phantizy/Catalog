@@ -1,0 +1,239 @@
+<resources>
+    <string name="app_name">Catalog</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_catalog">Products</string>
+    <string name="tab_news">News</string>
+    <string name="tab_maps">Maps</string>
+    <string name="tab_sales">Sales</string>
+    <string name="our_phone">(757)784-8044</string>
+
+
+    <string-array name="product_category_options">
+        <item>Saws</item>
+        <item>Wrenches</item>
+        <item>Pliers</item>
+        <item>Hammers</item>
+        <item>Screwdrivers</item>
+        <item>Files and Chisels</item>
+        <item>Planers</item>
+        <item>Measuring Tools</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="product_categories">
+        <item>Saws</item>
+        <item>Saws</item>
+        <item>Saws</item>
+        <item>Saws</item>
+        <item>Saws</item>
+        <item>Wrenches</item>
+        <item>Wrenches</item>
+        <item>Wrenches</item>
+        <item>Pliers</item>
+        <item>Pliers</item>
+        <item>Pliers</item>
+        <item>Pliers</item>
+        <item>Hammers</item>
+        <item>Hammers</item>
+        <item>Hammers</item>
+        <item>Screwdrivers</item>
+        <item>Screwdrivers</item>
+        <item>Screwdrivers</item>
+        <item>Screwdrivers</item>
+        <item>Files and Chisels</item>
+        <item>Files and Chisels</item>
+        <item>Files and Chisels</item>
+        <item>Files and Chisels</item>
+        <item>Planers</item>
+        <item>Planers</item>
+        <item>Measuring Tools</item>
+        <item>Measuring Tools</item>
+        <item>Measuring Tools</item>
+        <item>Miscellaneous</item>
+        <item>Miscellaneous</item>
+        <item>Miscellaneous</item>
+        <item>Miscellaneous</item>
+        <item>Miscellaneous</item>
+        <item>Miscellaneous</item>
+        <item>Miscellaneous</item>
+    </string-array>
+
+    <string-array name="product_names">
+        <item>Chainsaw</item>
+        <item>Circular Saw</item>
+        <item>Hacksaw</item>
+        <item>Hand Saw</item>
+        <item>Jigsaw</item>
+        <item>Adjustable Wrench</item>
+        <item>Open-End Wrench</item>
+        <item>Pipe Wrench</item>
+        <item>Combination Pliers</item>
+        <item>Crimping Pliers</item>
+        <item>Diagonal Pliers</item>
+        <item>Tongue-and-Groove Pliers</item>
+        <item>Machinist\'s Hammer</item>
+        <item>Claw Hammer</item>
+        <item>Rubber Mallet</item>
+        <item>Flat-Head Screwdriver (Large)</item>
+        <item>Flat-Head Screwdriver (Small)</item>
+        <item>Phillips-Head Screwdriver (Large)</item>
+        <item>Phillips-Head Screwdriver (Small)</item>
+        <item>Flat File</item>
+        <item>Round File</item>
+        <item>Hand Chisel</item>
+        <item>Power Chisel</item>
+        <item>Hand Planer</item>
+        <item>Power Planer</item>
+        <item>Level</item>
+        <item>Square</item>
+        <item>Tape Measure</item>
+        <item>Hand Axe</item>
+        <item>Drill</item>
+        <item>Gloves</item>
+        <item>Paint Roller</item>
+        <item>Scissors</item>
+        <item>Toolbox</item>
+        <item>Utility Knife</item>
+    </string-array>
+
+    <string-array name="product_images">
+        <item>chainsaw</item>
+        <item>circular_saw</item>
+        <item>hacksaw</item>
+        <item>hand_saw</item>
+        <item>jigsaw</item>
+        <item>adjustable_wrench</item>
+        <item>open_end_wrench</item>
+        <item>pipe_wrench</item>
+        <item>combination_pliers</item>
+        <item>crimping_pliers</item>
+        <item>diagonal_pliers</item>
+        <item>tongue_and_groove_pliers</item>
+        <item>machinists_hammer</item>
+        <item>claw_hammer</item>
+        <item>rubber_mallet</item>
+        <item>screwdriver_flat_lg</item>
+        <item>screwdriver_flat_sm</item>
+        <item>screwdriver_phillips_lg</item>
+        <item>screwdriver_phillips_sm</item>
+        <item>flat_file</item>
+        <item>round_file</item>
+        <item>hand_chisel</item>
+        <item>power_chisel</item>
+        <item>hand_planer</item>
+        <item>power_planer</item>
+        <item>level</item>
+        <item>square</item>
+        <item>tape_measure</item>
+        <item>axe</item>
+        <item>drill</item>
+        <item>gloves</item>
+        <item>paint_roller</item>
+        <item>scissors</item>
+        <item>toolbox</item>
+        <item>utility_knife</item>
+    </string-array>
+
+    <string-array name="product_descriptions">
+        <item>This gas-powered chainsaw is perfect for limbing and other light-duty work. It features a 16\" steel guide bar and an automatic chain oiler. Its ergonomic design makes it easy to maneuver and comfortable to operate for extended periods of time.</item>
+        <item>This lightweight 7-1/4\" circular saw makes wood cutting a breeze! The high-accuracy laser beam guide will keep your cuts straight and true, while the integrated dust blower will clear your cutting area of debris. Although designed to be compact, this saw features a powerful 5,000 RPM motor with a maximum of 2,000 watts output.</item>
+        <item>This is the kind of precision hacksaw that every woodworker needs in their toolkit. The saw\'s 12\" steel blade is held at high tension, ensuring that your cuts are always on target. The handle grip makes operating the saw hassle free, while at the same time preventing your hand from slipping.</item>
+        <item>This 15\" hand saw has been an old standby ever since it was introduced into our catalog decades ago. Recent modifications have increased its sharpness by a factor of 60%, giving you that much-needed edge without compromising its legendary durability. Like all of our handheld saws, this one features a handle grip that improves both comfort and safety.</item>
+        <item>Our powered jigsaw is ideal for any woodworker who needs to cut precise straight lines. Adjusting speeds on-the-fly is simple\u2014the saw works for you, not the other way around! The frame is sturdy and enables you easily swap out new blades when needed.</item>
+        <item>This is an 8\" wrench made of stainless steel that belongs in every home, not just woodworking enthusiasts. Its jaw width is easily adjustable and can grip a wide variety of nuts, bolts, and other fasteners.</item>
+        <item>This double-ended wrench features a 5/16 x 3/8\" opening on one end, and a 7/16 x 1/2\" opening on the other. A chromium-vanadium steel alloy has made our wrenches the most durable on the market for years.</item>
+        <item>This 14\" heavy-duty pipe wrench features carbon steel jaws and a strong iron handle. The adjustable jaws support a wide range of fastener sizes\u2014all the way up to 1-3/4\". Its unique teeth design guarantees a non-slip grip even on smooth surfaces.</item>
+        <item>Our combination pliers are great for any job that requires cutting wires and cables. The teeth provide enough torque to cut through thick cable, and the needle nose tip is excellent for precision cuts. The pliers\' ergonomic design makes operating the tool easy and comfortable.</item>
+        <item>When you need to fold a wire instead of cut it, our crimping pliers are the right tool for the job. The stainless steel jaws feature a unique teeth design that maximizes pivoting, enabling you to easily manage stranded wire.</item>
+        <item>These ultra-sharp pliers are perfect for slicing right through wires made of copper, brass, steel, and more. Their lightweight and comfortable handle enables you to cut wires quickly without straining your hand.</item>
+        <item>The adjustable jaws on these pliers are made of a carbon steel alloy that is tough and minimizes slippage. These pliers are perfect for applying torque to any number of fasteners, and excel at gripping irregularly shaped objects.</item>
+        <item>This 12-ounce machinist\'s hammer is designed to absorb vibrations during impact, minimizing discomfort. The head is made of a carbon steel alloy and is perfect for working strong materials, while the rubber grip ensures that your hand will never slip during use.</item>
+        <item>Our no-frills claw hammer has been a customer favorite ever since it was the first item to be put up for sale in our store decades ago. This 16-ounce hammer features a heat-treated stainless steel head and a shock-absorbing hardwood handle.</item>
+        <item>This 16-ounce mallet features a solid rubber head that provides a durable, yet softened strike to any number of surfaces. The hardwood handle is designed to be held comfortably with one or two hands, and absorbs the shock of repeated and forceful strikes.</item>
+        <item>This 3/16\" flat-head screwdriver features a long, narrow body for an improved reach. The blade is a stainless steel alloy with a hardened tip that will fit any flat-head screw, even ones that have been stripped. Its soft-grip handle will prevent slippage no matter how much pressure is applied.</item>
+        <item>This 1/4\" flat-head screwdriver features a small, stubby body for easy maneuverability and portability. The blade is a stainless steel alloy with a hardened tip that will fit any flat-head screw, even ones that have been stripped. Its soft-grip handle will prevent slippage no matter how much pressure is applied.</item>
+        <item>This #2 Phillips-head screwdriver features a long, narrow body for an improved reach. The blade is a stainless steel alloy with a hardened tip that will fit any Phillips-head screw, even ones that have been stripped. Its soft-grip handle will prevent slippage no matter how much pressure is applied.</item>
+        <item>This #3 Phillips-head screwdriver features a small, stubby body for easy maneuverability and portability. The blade is a stainless steel alloy with a hardened tip that will fit any Phillips-head screw, even ones that have been stripped. Its soft-grip handle will prevent slippage no matter how much pressure is applied.</item>
+        <item>This 6\" flat file is great for any job that requires removing fine amounts of wood, metal, and other surfaces. The blade is a carbon steel alloy with sharpened teeth for extra durability and dependability. Its fiberglass handle is contoured for maximum grip.</item>
+        <item>This 6\" round file is great for any job that requires removing scalloped edges from wood, metal, and other surfaces. The blade is a carbon steel alloy with sharpened teeth for extra durability and dependability. Its fiberglass handle is contoured for maximum grip.</item>
+        <item>Our hand chisel features an incredibly sharp carbon steel alloy that will retain its edge even in the most extreme circumstances. The blade itself is 1-1/4\" wide and 5-1/2\" long. The handle is a soft fiberglass that provides a sure grip and comfortable operation.</item>
+        <item>This air-powered chisel is ideal for intense carving work that a hand chisel can\'t keep up with. The chromium-vanadium alloy blade is among our sharpest ever, cutting through even the most hardened of surfaces. This unit is rated at 12,500 cuts per minute, yet remains completely stable throughout operation.</item>
+        <item>Our adjustable hand planer features an ultra-sharp 2\" cutter, perfect for stripping and shaping any type of wood. The cutter is tempered for increased durability, lasting years even with heavy usage. For precise control, the cutter can be easily adjusted for both alignment and depth.</item>
+        <item>Our powered planer is a precision machine that can smooth any wooden surface quickly and easily. It has a speed of 17,000 RPMs and features a 6 amp motor. Depth adjustment and alignment are simple with the calibration knob.</item>
+        <item>This level guarantees a high degree of accuracy when straight lines are a must. The horizontal, vertical, and diagonal bubbles are fine-tuned to maximize their sensitivity. The body is a non-abrasive aluminum that won\'t damage even the softest of woods or other surfaces.</item>
+        <item>This square features a 11\" blade made of hardened wood and a 7\" tongue made of stainless steel. It is ideal for working with straight edges, but the blade also features an inch and centimeter ruler for accurate measurement.</item>
+        <item>This 30\' tape measure includes a 1-1/4\" tape rule with metal clip. The locking mechanism ensures that the tape rule remains steady even when exposed to vigorous movement. The tempered spring supports a smooth, gradual recoil action.</item>
+        <item>This 14\" axe is perfect for light-duty wood chopping. It features an ultra-sharp tempered steel edge that won\'t dull under continued use. The handle is a comfortable, grip-resistant fiberglass material designed to absorb impact vibrations.</item>
+        <item>Our cordless drill features an adjustable RPM range up to 1,500, ensuring that the right amount of force is applied to the situation. Its ergonomic design and lightweight frame helps to maximize user comfort while minimizing strain. Comes with two USB-rechargeable batteries.</item>
+        <item>These work gloves are made from an ultra-grip nylon polymer that is resistant to tears, punctures, and other damage. The inside is soft, comfortable, and keeps the hand cooled with room to breathe. One size fits all.</item>
+        <item>This 9\" paint roller package comes with both frame and cover. The heavy-duty frame is a 6-wire design that ensures smooth, yet sturdy application on any surface. At the bottom of the frame is a threaded grip to accommodate an extension pole. The included cover is made of a consistent polyester.</item>
+        <item>These 8\" titanium-bonded heavy-duty scissors can easily cut through upholstery, thick rubber, and many other tough materials. The handle is designed to accommodate any size and shape of fingers without losing its grip.</item>
+        <item>This 16\" portable toolbox is made of a lightweight plastic polymer that keeps the inside of the box insulated from debris and water leakage. The handle makes toting the toolbox with one hand easy, and the steel latches and hinges keep it secure. Inside of the toolbox is a removable tray to help keep tools organized.</item>
+        <item>This retractable utility knife features a sharp carbon steel blade that is great for cutting drywall, thin strips of wood, and much more. The blade is housed in the handle when not in use, and is easy to extend when needed. The nose has an interlocking mechanism for keeping the blade secure.</item>
+    </string-array>
+
+    <string-array name="product_prices">
+        <item>$105.95</item>
+        <item>$74.99</item>
+        <item>$19.99</item>
+        <item>$17.75</item>
+        <item>$89.95</item>
+        <item>$9.95</item>
+        <item>$4.45</item>
+        <item>$17.75</item>
+        <item>$22.25</item>
+        <item>$11.95</item>
+        <item>$8.85</item>
+        <item>$14.45</item>
+        <item>$9.95</item>
+        <item>$8.49</item>
+        <item>$6.99</item>
+        <item>$1.99</item>
+        <item>$1.25</item>
+        <item>$1.99</item>
+        <item>$1.25</item>
+        <item>$3.55</item>
+        <item>$3.55</item>
+        <item>$10.99</item>
+        <item>$145.55</item>
+        <item>$31.99</item>
+        <item>$160.55</item>
+        <item>$5.25</item>
+        <item>$7.75</item>
+        <item>$8.99</item>
+        <item>$20.99</item>
+        <item>$80.15</item>
+        <item>$6.65</item>
+        <item>$12.25</item>
+        <item>$9.95</item>
+        <item>$26.99</item>
+        <item>$9.95</item>
+    </string-array>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="use_external_browser">Use External Browser</string>
+    <string name="use_browser_title">Use separate app if selected</string>
+    <string name="search_terms_value">woodworking</string>
+    <string name="search_terms_title">Search Terms</string>
+    <string name="use_browser_summary">Use an external browser to display news articles, or display them directly in the app</string>
+    <string name="search_terms_summary">Enter words you want to search for in articles</string>
+    <string name="no_location_detected">No location detected</string>
+    <string name="permission_not_granted">Unable to obtain location (permission denied)</string>
+    <string name="capture_location">Get Location</string>
+    <string name="my_business_headlines">News</string>
+    <string name="information_not_loaded_yet">Information Not Loaded Yet</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_title">Woodworkers Wheelhouse News</string>
+    <string name="password_label">Password</string>
+    <string name="read_label">Read</string>
+    <string name="write_label">Write</string>
+    <string name="note_encrypted_to_file">Note encrypted to file</string>
+    <string name="unable_to_write_note">Unable to write note to file</string>
+    <string name="no_previous_note_found">No previous note file found</string>
+    <string name="error_reading_previous_file">Error reading from previous note file</string>
+    <string name="cannot_decrypt">Cannot decrypt</string>
+
+
+</resources>

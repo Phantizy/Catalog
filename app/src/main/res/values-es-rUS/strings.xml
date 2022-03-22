@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catálogo</string>
+    <string name="our_phone">(555)555-1212</string>
+    <string name="tab_catalog">Productos</string>
+    <string name="tab_news">Noticias</string>
+    <string name="tab_maps">Mapa</string>
+    <string name="tab_sales">Ventas</string>
+    <string name="show_map">Enseña la oficina principal en el mapa</string>
+    <string name="call_main_office">Llama la oficina principal</string>
+
+    <string-array name="product_category_options">
+        <item>Sierras</item>
+        <item>Llaves</item>
+        <item>Alicates</item>
+        <item>Martillos</item>
+        <item>Destornilladores</item>
+        <item>Limas y cinceles</item>
+        <item>Garlopas</item>
+        <item>Instrumentos de medición</item>
+        <item>Diversos</item>
+    </string-array>
+
+    <string-array name="product_categories">
+        <item>Sierras</item>
+        <item>Sierras</item>
+        <item>Sierras</item>
+        <item>Sierras</item>
+        <item>Sierras</item>
+        <item>Llaves</item>
+        <item>Llaves</item>
+        <item>Llaves</item>
+        <item>Alicates</item>
+        <item>Alicates</item>
+        <item>Alicates</item>
+        <item>Alicates</item>
+        <item>Martillos</item>
+        <item>Martillos</item>
+        <item>Martillos</item>
+        <item>Destornilladores</item>
+        <item>Destornilladores</item>
+        <item>Destornilladores</item>
+        <item>Destornilladores</item>
+        <item>Limas y cinceles</item>
+        <item>Limas y cinceles</item>
+        <item>Limas y cinceles</item>
+        <item>Limas y cinceles</item>
+        <item>Garlopas</item>
+        <item>Garlopas</item>
+        <item>Instrumentos de medición</item>
+        <item>Instrumentos de medición</item>
+        <item>Instrumentos de medición</item>
+        <item>Diversos</item>
+        <item>Diversos</item>
+        <item>Diversos</item>
+        <item>Diversos</item>
+        <item>Diversos</item>
+        <item>Diversos</item>
+        <item>Diversos</item>
+    </string-array>
+
+    <string-array name="product_names">
+        <item>Motosierra</item>
+        <item>Sierra circular</item>
+        <item>Sierra para metales</item>
+        <item>Sierra manual</item>
+        <item>Sierra de vaivén</item>
+        <item>Llave inglesa</item>
+        <item>Llave de boca</item>
+        <item>Llava para tubos</item>
+        <item>Alicates universales</item>
+        <item>Crimpadora</item>
+        <item>Cortaalambres</item>
+        <item>Alicates extensibles</item>
+        <item>Martillo de maquinista</item>
+        <item>Martillo de carpintero</item>
+        <item>Mazo de goma</item>
+        <item>Destornillador de cabeza plana (grande)</item>
+        <item>Destornillador de cabeza plana (pequeña)</item>
+        <item>Destornillador Phillips (grande)</item>
+        <item>Destornillador Phillips (pequeña)</item>
+        <item>Lima plana</item>
+        <item>Lima redonda</item>
+        <item>Cincel manual</item>
+        <item>Cincel eléctrico</item>
+        <item>Garlopa manual</item>
+        <item>Garlopa portátil</item>
+        <item>Nivel</item>
+        <item>Escuadra de comprobación</item>
+        <item>Cinta métrica</item>
+        <item>Hacha</item>
+        <item>Taladradora</item>
+        <item>Guantes</item>
+        <item>Rodillo de pintura</item>
+        <item>Tijera</item>
+        <item>Caja de herramientas</item>
+        <item>Cúter</item>
+    </string-array>
+
+    <string-array name="product_images">
+        <item>chainsaw</item>
+        <item>circular_saw</item>
+        <item>hacksaw</item>
+        <item>hand_saw</item>
+        <item>jigsaw</item>
+        <item>adjustable_wrench</item>
+        <item>open_end_wrench</item>
+        <item>pipe_wrench</item>
+        <item>combination_pliers</item>
+        <item>crimping_pliers</item>
+        <item>diagonal_pliers</item>
+        <item>tongue_and_groove_pliers</item>
+        <item>machinists_hammer</item>
+        <item>claw_hammer</item>
+        <item>rubber_mallet</item>
+        <item>screwdriver_flat_lg</item>
+        <item>screwdriver_flat_sm</item>
+        <item>screwdriver_phillips_lg</item>
+        <item>screwdriver_phillips_sm</item>
+        <item>flat_file</item>
+        <item>round_file</item>
+        <item>hand_chisel</item>
+        <item>power_chisel</item>
+        <item>hand_planer</item>
+        <item>power_planer</item>
+        <item>level</item>
+        <item>square</item>
+        <item>tape_measure</item>
+        <item>axe</item>
+        <item>drill</item>
+        <item>gloves</item>
+        <item>paint_roller</item>
+        <item>scissors</item>
+        <item>toolbox</item>
+        <item>utility_knife</item>
+    </string-array>
+
+    <string-array name="product_descriptions">
+        <item>Esta motosierra de gasolina es perfecto para podar y otros trabajos de poca potencia. Cuenta con una barra 16\" de guía de acero y un engrasador automático de cadena. Su diseño ergonómico hace que sea fácil de maniobrar y cómodo para funcionar durante períodos de tiempo prolongados.</item>
+        <item>Este ligero 7-1/4\" de sierra circular hace que la madera de corte una brisa! La guía de rayo láser de alta precisión mantendrá sus cortes recto y verdadero, mientras que el soplador de polvo integrada borrará su área de corte de escombros. Aunque se ha diseñado para ser compacto, esta sierra cuenta con un potente motor 5,000 RPM con un máximo de salida de 2,000 vatios.</item>
+        <item>Este es el tipo de sierra para metales de precisión que cada trabajador de la madera necesita en su caja de herramientas. Hoja de acero de 12\" de la sierra se mantiene a alta tensión, asegurando que sus cortes son siempre en el blanco. La empuñadura hace uso de la sierra sin problemas, mientras que al mismo tiempo evitando que su mano se deslice.</item>
+        <item>Este sierra 15\" parte ha sido un viejo recurso desde que se introdujo en nuestras décadas de catálogo hace. Modificaciones recientes han aumentado su nitidez en un factor de 60%, que le da ventaja que tanto necesita sin comprometer su durabilidad legendaria. Al igual que todos nuestros sierras de mano, éste dispone de un asa de agarre que mejora la comodidad y la seguridad.</item>
+        <item>Nuestro rompecabezas potencia es ideal para cualquier trabajador de la madera que necesita para cortar líneas rectas precisas. Ajuste de la velocidad de la marcha es simple—la sierra trabaja para usted, no al revés! El marco es robusto y permite cambiar fácilmente nuevas cuchillas cuando sea necesario.</item>
+        <item>Se trata de una llave de 8\" de acero inoxidable que pertenece en cada hogar, no sólo para trabajar la madera entusiastas. Su anchura de la mandíbula es fácilmente ajustable y puede agarrar una amplia variedad de tuercas, pernos y otros elementos de sujeción.</item>
+        <item>Esta llave de doble extremo dispone de un abertura en un extremo 7/16 x 1/2\", y un 3/8 x 5/16\" abertura en el otro. Una aleación de acero al cromo-vanadio ha hecho nuestras llaves de los más duraderos en el mercado desde hace años.</item>
+        <item>Este 14\" llave de tubo de alta resistencia cuenta con mordazas de acero de carbono y un mango de hierro fuerte. Las mordazas ajustables soportan una amplia gama de tamaños, todo cierre el camino hasta 1-3/4\". Su diseño dientes únicos garantiza un agarre antideslizante incluso en superficies lisas.</item>
+        <item>Nuestros alicates universales son ideales para cualquier trabajo que requiere el corte de alambres y cables. Los dientes proporcionan suficiente par para cortar a través de cable grueso, y la punta de la nariz de la aguja es excelente para cortes de precisión. Diseño ergonómico de los alicates hace que el funcionamiento de la herramienta fácil y cómoda.</item>
+        <item>Cuando tenga que doblar un alambre en lugar de cortarlo, nuestros crimpadora son la herramienta adecuada para el trabajo. Las mandíbulas de acero inoxidable cuentan con un diseño único que maximiza los dientes de giro, lo que le permite administrar fácilmente el cable trenzado.</item>
+        <item>Estas pinzas ultra nítidas son perfectas para cortar a través de cables de cobre, latón, acero y más. Su mango ligero y cómodo le permite cortar cables de forma rápida sin forzar la mano.</item>
+        <item>Las mordazas ajustables en estas pinzas están hechas de una aleación de acero de carbono que es resistente y reduce al mínimo el deslizamiento. Estas pinzas son perfectos para aplicar torsión a cualquier número de elementos de sujeción, y sobresalen en la aprehensión de objetos de forma irregular.</item>
+        <item>12 onzas martillo de maquinista está diseñado para absorber las vibraciones durante el impacto, minimizando las molestias. La cabeza está hecha de una aleación de acero al carbono y es perfecto para trabajar materiales fuertes, mientras que el agarre de goma asegura que su mano no se deslice durante el uso.</item>
+        <item>Nuestra guía de alojamientos garra martillo ha sido un favorito de los clientes desde que fue el primer elemento a ser puesto a la venta en nuestras tiendas hace décadas. Este martillo de 16 onzas cuenta con un cabezal de acero inoxidable con tratamiento térmico y un mango de madera que absorbe los golpes.</item>
+        <item>Este mazo de 16 onzas cuenta con una cabeza de goma sólida que proporciona una huelga duradero, pero suavizada a cualquier número de superficies. El mango de madera está diseñado para sostenerse cómodamente con una o dos manos, y absorbe el impacto de los ataques repetidos y contundentes.</item>
+        <item>Este 3/16\" destornillador de punta plana cuenta con un cuerpo largo y estrecho para un alcance mejorado. La hoja es una aleación de acero inoxidable con una punta endurecida que se ajuste a cualquier tornillo de cabeza plana, incluso los que han sido despojados. Su agarre suave manejar evitará el deslizamiento no importa cuánta presión se aplica.</item>
+        <item>Este 1/4\" destornillador de punta plana cuenta con un cuerpo pequeño, rechoncho para una fácil maniobrabilidad y la portabilidad. La hoja es una aleación de acero inoxidable con una punta endurecida que se ajuste a cualquier tornillo de cabeza plana, incluso los que han sido despojados. Su suave manija de agarre evitará el deslizamiento no importa cuánta presión se aplica.</item>
+        <item>Este #2 destornillador Phillips cuenta con un cuerpo largo y estrecho para un alcance mejorado. La hoja es una aleación de acero inoxidable con una punta endurecida que se ajuste a cualquier tornillo de cabeza Phillips, incluso los que han sido despojados. Su suave manija de agarre evitará el deslizamiento no importa cuánta presión se aplica.</item>
+        <item>Este #3 destornillador Phillips cuenta con un cuerpo pequeño, rechoncho para una fácil maniobrabilidad y la portabilidad. La hoja es una aleación de acero inoxidable con una punta endurecida que se ajuste a cualquier tornillo de cabeza Phillips, incluso los que han sido despojados. Su suave manija de agarre evitará el deslizamiento no importa cuánta presión se aplica.</item>
+        <item>Este archivo plano 6\" es ideal para cualquier tipo de trabajo que requiere la eliminación de cantidades finas de madera, metal y otras superficies. La hoja es una aleación de acero al carbono con dientes afilados para una mayor durabilidad y fiabilidad. Su mango de fibra de vidrio tiene un contorno para un agarre máximo.</item>
+        <item>Este archivo ronda 6\" es ideal para cualquier tipo de trabajo que requiere la eliminación de bordes festoneados de madera, metal y otras superficies. La hoja es una aleación de acero al carbono con dientes afilados para una mayor durabilidad y fiabilidad. Su mango de fibra de vidrio tiene un contorno para un agarre máximo.</item>
+        <item>Nuestra cincel mano cuenta con una aleación de acero al carbono increíblemente nítidos que retendrá su borde incluso en las circunstancias más extremas. La hoja en sí es de 1-1/4\" de ancho y 5-1/2\" de largo. El mango es una fibra de vidrio suave que proporciona un agarre seguro y cómodo manejo.</item>
+        <item>Este cincel accionado por aire es ideal para el trabajo intenso que talla un cincel mano no puede seguir el ritmo. La hoja de aleación de cromo-vanadio se encuentra entre nuestra cada vez más aguda, cortando a través de incluso el más endurecido de superficies. Esta unidad tiene una potencia de 12,500 cortes por minuto, sin embargo, permanece completamente estable durante toda la operación.</item>
+        <item>Nuestro cepillo de mano ajustable cuenta con un ultra-nítida de corte 2\", ideal para pelar y dar forma a cualquier tipo de madera. El cortador es templado para una mayor durabilidad, que dura años, incluso con un uso intensivo. Para un control preciso, el cortador se puede ajustar fácilmente para ambos alineación y profundidad.</item>
+        <item>Nuestra cepilladora accionada es una máquina de precisión que se puede alisar cualquier superficie de madera de forma rápida y fácilmente. Tiene una velocidad de 17,000 RPM y cuenta con un motor de 6 amperios. Ajuste de la profundidad y la alineación son simples con el mando de calibración.</item>
+        <item>Este nivel garantiza un alto grado de exactitud cuando las líneas rectas son una necesidad. Las burbujas horizontales, verticales y diagonales se afinaron para maximizar su sensibilidad. El cuerpo es un aluminio no abrasivo que no dañe incluso el más suave de los bosques u otras superficies.</item>
+        <item>Esta plaza cuenta con una hoja de madera endurecida 7\" y un 11\" lengua hecha de acero inoxidable. Es ideal para trabajar con bordes rectos, pero la hoja también cuenta con una regla en pulgadas y centímetros para una medición precisa.</item>
+        <item>Este 30\' cinta métrica incluye una regla de 1-1/4\" de cinta con clip de metal. El mecanismo de bloqueo asegura que la regla de cinta permanece constante incluso cuando se expone al movimiento vigoroso. El resorte templado es compatible con una acción de retroceso suave y gradual.</item>
+        <item>Este hacha 14\" es perfecto para cortar la madera de poca potencia. Cuenta con un borde de acero templado-aguda de ultra que no lo hará sin brillo en condiciones de uso continuado. El mango es un material de fibra de vidrio agarre cómodo y resistente diseñada para absorber las vibraciones de impacto.</item>
+        <item>Nuestra taladro inalámbrico cuenta con una RPM ajustable intervalo de hasta 1,500, asegurando que la cantidad correcta de fuerza se aplica a la situación. Su diseño ergonómico y ligero marco ayuda a maximizar la comodidad del usuario y reducir al mínimo la tensión. Viene con dos baterías recargables USB.</item>
+        <item>Estos guantes de trabajo están hechas de un polímero de nylon-apretón de ultra que es resistente a desgarros, pinchazos y otros daños. El interior es suave, cómodo, y mantiene enfrió la mano con espacio para respirar. Una talla para todos.</item>
+        <item>Este paquete de rodillos 9\" pintura viene con marco y la tapa. El bastidor de alta resistencia es un diseño de 6 hilos que asegura una aplicación suave, pero robusto en cualquier superficie. En la parte inferior de la trama es un agarre roscado para alojar un poste de extensión . La cubierta incluida está hecho de un poliéster consistente.</item>
+        <item>Estos 8\" tijeras de trabajo pesado de titanio unidos pueden cortar fácilmente a través de la tapicería, de goma gruesa, y muchos otros materiales duros. El mango está diseñado para adaptarse a cualquier tamaño y forma de los dedos sin perder su agarre.</item>
+        <item>Este 16\" caja de herramientas portátil está hecha de un polímero plástico ligero que mantiene el interior de la caja aislada de los desechos y las fugas de agua. El mango hace portando la caja de herramientas con una sola mano fácil, y los resortes de acero y bisagras de mantenerlo seguro. En el interior de la caja de herramientas es una bandeja extraíble para ayudar a mantener las herramientas organizadas.</item>
+        <item>Este cuchillo retráctil cuenta con una cuchilla de acero al carbono afilada que es ideal para el corte de paneles de yeso, tiras delgadas de madera, y mucho más. La hoja está alojado en el mango cuando no esté en uso, y es fácil de ampliar cuando sea necesario. La nariz tiene un mecanismo de enclavamiento para mantener la cuchilla seguro.</item>
+    </string-array>
+
+    <string-array name="product_prices">
+        <item>$105.95</item>
+        <item>$74.99</item>
+        <item>$19.99</item>
+        <item>$17.75</item>
+        <item>$89.95</item>
+        <item>$9.95</item>
+        <item>$4.45</item>
+        <item>$17.75</item>
+        <item>$22.25</item>
+        <item>$11.95</item>
+        <item>$8.85</item>
+        <item>$14.45</item>
+        <item>$9.95</item>
+        <item>$8.49</item>
+        <item>$6.99</item>
+        <item>$1.99</item>
+        <item>$1.25</item>
+        <item>$1.99</item>
+        <item>$1.25</item>
+        <item>$3.55</item>
+        <item>$3.55</item>
+        <item>$10.99</item>
+        <item>$145.55</item>
+        <item>$31.99</item>
+        <item>$160.55</item>
+        <item>$5.25</item>
+        <item>$7.75</item>
+        <item>$8.99</item>
+        <item>$20.99</item>
+        <item>$80.15</item>
+        <item>$6.65</item>
+        <item>$12.25</item>
+        <item>$9.95</item>
+        <item>$26.99</item>
+        <item>$9.95</item>
+    </string-array>
+
+
+</resources>
